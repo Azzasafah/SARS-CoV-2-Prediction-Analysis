@@ -44,9 +44,6 @@ Proyek ini merupakan implementasi dari siklus proyek kecerdasan buatan (AI Proje
 | Logistic Regression (Before SMOTE) | 87%     |    
 | Logistic Regression (After  SMOTE) | 86%     |
 
-
-> Random Forest menunjukkan performa terbaik secara keseluruhan.
-
 ---
 
 ## 📈 Visualisasi
